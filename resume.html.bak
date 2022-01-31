@@ -6,6 +6,16 @@
        <title>My Resume</title>
   </head>
    <body>
+    <header>
+      <nav>
+        <ul>
+         <li><a href="resume.html">My Resume</a></li>
+         <li><a href="hometown.html">Something about my hometown</a></li>
+         <li><a href="place.html">The places I visited in America</a></li>
+        </ul>
+      </nav>
+     </header>
+	 
      <h1>Tingting Hu</h1>
      <h2>Contact Information</h2>
       <p><b>Email:</b>thu12@hawk.iit.edu</p>
