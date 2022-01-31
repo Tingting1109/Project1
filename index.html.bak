@@ -16,7 +16,7 @@
 	 
      <h2>Navigation:</h2>
      <ul>
-	   <li><a href="file:///C:/Users/%E8%83%A1%E5%A9%B7%E5%A9%B7/Desktop/Project1/resume.html">My Resume</a></li>
+	   <li><a href="Project1/resume.html">My Resume</a></li>
        <li><a href=" ">Something about my hometown</a></li>
        <li><a href=" ">The places I visited in America</a></li>
      </ul>
