@@ -7,16 +7,6 @@
   </head>
   
    <body>
-    <header>
-      <nav>
-        <ul>
-         <li><a href="resume.html">My Resume</a></li>
-         <li><a href="hometown.html">Something about my hometown</a></li>
-         <li><a href=" ">The places I visited in America</a></li>
-        </ul>
-      </nav>
-     </header>
-	 
      <h1>Shanghai, China</h1>
 	 <p>I come from China and I live in Shanghai.</p>
 	 
